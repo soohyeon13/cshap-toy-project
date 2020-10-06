@@ -1,0 +1,53 @@
+C:\Users\danam\source\repos\timer1\timer1\bin\Debug\timer1.exe.config
+C:\Users\danam\source\repos\timer1\timer1\bin\Debug\timer1.exe
+C:\Users\danam\source\repos\timer1\timer1\bin\Debug\timer1.pdb
+C:\Users\danam\source\repos\timer1\timer1\obj\Debug\timer1.csprojAssemblyReference.cache
+C:\Users\danam\source\repos\timer1\timer1\obj\Debug\timer1.Form1.resources
+C:\Users\danam\source\repos\timer1\timer1\obj\Debug\timer1.Properties.Resources.resources
+C:\Users\danam\source\repos\timer1\timer1\obj\Debug\timer1.csproj.GenerateResource.cache
+C:\Users\danam\source\repos\timer1\timer1\obj\Debug\timer1.csproj.CoreCompileInputs.cache
+C:\Users\danam\source\repos\timer1\timer1\obj\Debug\timer1.exe
+C:\Users\danam\source\repos\timer1\timer1\obj\Debug\timer1.pdb
+C:\Users\wkdlf\Desktop\timer1\timer1\bin\Debug\timer1.exe.config
+C:\Users\wkdlf\Desktop\timer1\timer1\bin\Debug\timer1.exe
+C:\Users\wkdlf\Desktop\timer1\timer1\bin\Debug\timer1.pdb
+C:\Users\wkdlf\Desktop\timer1\timer1\obj\Debug\timer1.csprojAssemblyReference.cache
+C:\Users\wkdlf\Desktop\timer1\timer1\obj\Debug\timer1.Form1.resources
+C:\Users\wkdlf\Desktop\timer1\timer1\obj\Debug\timer1.Properties.Resources.resources
+C:\Users\wkdlf\Desktop\timer1\timer1\obj\Debug\timer1.csproj.GenerateResource.cache
+C:\Users\wkdlf\Desktop\timer1\timer1\obj\Debug\timer1.csproj.CoreCompileInputs.cache
+C:\Users\wkdlf\Desktop\timer1\timer1\obj\Debug\timer1.exe
+C:\Users\wkdlf\Desktop\timer1\timer1\obj\Debug\timer1.pdb
+C:\Users\danam\Desktop\timer1\timer1\bin\Debug\timer1.exe.config
+C:\Users\danam\Desktop\timer1\timer1\bin\Debug\timer1.exe
+C:\Users\danam\Desktop\timer1\timer1\bin\Debug\timer1.pdb
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.csprojAssemblyReference.cache
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.Form1.resources
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.Properties.Resources.resources
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.csproj.GenerateResource.cache
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.csproj.CoreCompileInputs.cache
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.exe
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.pdb
+C:\Users\danam\Desktop\timer1\timer1\obj\Debug\timer1.알람시간변경.resources
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\bin\Debug\timer1.exe.config
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\bin\Debug\timer1.exe
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\bin\Debug\timer1.pdb
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.csprojAssemblyReference.cache
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.Form1.resources
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.Form2.resources
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.Properties.Resources.resources
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.csproj.GenerateResource.cache
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.csproj.CoreCompileInputs.cache
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.exe
+C:\Users\wkdlf\Desktop\timer1 (2)\timer1\obj\Debug\timer1.pdb
+C:\Users\danam\Desktop\timer1 (2)\timer1\bin\Debug\timer1.exe.config
+C:\Users\danam\Desktop\timer1 (2)\timer1\bin\Debug\timer1.exe
+C:\Users\danam\Desktop\timer1 (2)\timer1\bin\Debug\timer1.pdb
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.csprojAssemblyReference.cache
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.Form1.resources
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.Form2.resources
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.Properties.Resources.resources
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.csproj.GenerateResource.cache
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.csproj.CoreCompileInputs.cache
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.exe
+C:\Users\danam\Desktop\timer1 (2)\timer1\obj\Debug\timer1.pdb
